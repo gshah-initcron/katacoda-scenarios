@@ -10,7 +10,8 @@
     }],
     "intro": {
       "text": "intro.md",
-      "credits": ""
+      "courseData": "courseBase.sh",
+      "credits": "Gaurav Shah"
     },
     "finish": {
       "text": "finish.md"

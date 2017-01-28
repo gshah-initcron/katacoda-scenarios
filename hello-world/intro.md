@@ -1,1 +1,1 @@
-Welcome to your first Katacoda Scenario!
+Welcome to your first Initcron Tutorial Scenario!
